@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/firma", {data:[{}],fetch:{},mutations:[]});

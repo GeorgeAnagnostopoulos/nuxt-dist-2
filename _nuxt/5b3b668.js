@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{259:function(e,n,t){"use strict";t.r(n);var l={name:"firma",layout:"default"},o=t(4),component=Object(o.a)(l,(function(){var e=this,n=e.$createElement;return(e._self._c||n)("div",[e._v("Company Profile")])}),[],!1,null,"15b5af68",null);n.default=component.exports}}]);
